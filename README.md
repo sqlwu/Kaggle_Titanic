@@ -3,3 +3,4 @@
 #### Titanic New.ipynb testresult.csv
 #### Titanic Top.ipynb submission.csv 0.83732
 #### Titanic XGBoost.ipynb submission.csv 0.82296
+#### Titanic GE.ipynb gptest.csv 0.88995
